@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1472515451 source:c:\users\alumno.lab4pc\desktop\tp1\prueba de funciones\prueba de funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myFunction.h"
+
+1472515451 c:\users\alumno.lab4pc\desktop\tp1\prueba de funciones\prueba de funciones\myfunction.h
+
+1472515451 source:c:\users\alumno.lab4pc\desktop\tp1\prueba de funciones\prueba de funciones\myfunction.c
+	"myFunction.h"
+
